@@ -6,16 +6,16 @@ body, h1, h2, p, ul {
 
 /* Set the font and background color */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    font-family: 'Comic Sans MS', cursive, sans-serif;;
+    background-color: black
+    color: white;
     line-height: 1.6;
 }
 
 /* Style the header */
 header {
-    background: #4CAF50;
-    color: #fff;
+    background: ;
+    color: #FBA90A;
     padding: 10px 0;
     text-align: center;
 }
@@ -33,7 +33,7 @@ main {
 
 /* Style the services section */
 .services {
-    background: #fff;
+    background: #F7EBD4;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -48,7 +48,7 @@ main {
 }
 
 .services li {
-    background: #e0e0e0;
+    background: #5E925D;
     margin: 5px 0;
     padding: 10px;
     border-radius: 3px;
