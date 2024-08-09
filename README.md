@@ -1,28 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Crystal Air Consulting</h1>
-    </header>
-    <main>
-        <section class="services">
-            <h2>What We Offer</h2>
-            <ul>
-                <li>Outdoor Adventure Consultations</li>
-                <li>GIS Workflow Consultations (Data Management Solutions)</li>
-                <li>Educational Content</li>
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Crystal Air Consulting. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+# Crystal Air Consulting Website
 
+## Overview
+
+This is a simple website for Crystal Air Consulting, showcasing our services including Outdoor Adventure Consultations, GIS Workflow Consultations, and Educational Content.
+
+## Files
+
+- `index.html`: Main HTML file for the website.
+- `styles.css`: CSS file for styling the website.
+
+## Setup
+
+1. Clone the repository or download the files.
+2. Open `index.html` in your web browser to view the website.
+
+## Contributing
+
+If you would like to contribute, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
